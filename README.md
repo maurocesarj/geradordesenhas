@@ -7,8 +7,8 @@
 </div>
 
 
-### Site .
+### Site feito durante uma imersão dev da Alura
 
 <p> 
-    <img width="900" height="500" src="src/gif6.gif" >
+    <img width="900" height="500" src="https://media.discordapp.net/attachments/858045344888651787/972319661779730512/unknown.png?width=1141&height=642" >
 </p>
