@@ -1,2 +1,1 @@
-# geradordesenhas
-site
+# Site gerador de senhas
